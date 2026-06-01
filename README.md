@@ -150,7 +150,7 @@ Free to use for learning and personal projects.
   
 ---
   
-🔗 <strong>Live Demo:</strong> <a href="https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/timer-app.html">Click Here</a> | 
+🔗 <strong>Live Demo:</strong> <a href="https://htmlpreview.github.io/?https://github.com/catcxo/timer-app.html">Click Here</a> | 
 🐙 <strong>GitHub:</strong> <a href="https://github.com/catcxo">catcxo</a>
 
 </div>
