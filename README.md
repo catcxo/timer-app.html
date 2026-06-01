@@ -27,7 +27,7 @@
 
 ### 🚀 Live Demo
 
-👉 [Click here to view the live demo](https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/timer-app.html)
+👉 [Click here to view the live demo](https://htmlpreview.github.io/?https://github.com/catcxo/timer-app.html)
 
 ### 📂 GitHub Repository
 
@@ -55,11 +55,11 @@
 
 ### 🚀 نمایش زنده
 
-👉 [برای مشاهده دموی زنده کلیک کنید](https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/timer-app.html)
+👉 [برای مشاهده دموی زنده کلیک کنید](https://htmlpreview.github.io/?https://github.com/catcxo/timer-app.html)
 
 ### 📂 مخزن گیت‌هاب
 
-👉 [github.com/catcxo/basic_animation](https://github.com/catcxo/basic_animation)
+👉 [github.com/catcxo](https://github.com/catcxo)
 
 ---
 
