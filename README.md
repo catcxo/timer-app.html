@@ -31,7 +31,7 @@
 
 ### 📂 GitHub Repository
 
-👉 [github.com/catcxo/basic_animation](https://github.com/catcxo/basic_animation)
+👉 [github.com/catcxo](https://github.com/catcxo)
 
 ---
 
