@@ -104,3 +104,53 @@ June 2026
 Free to use for learning and personal projects.
 
 آزاد برای استفاده در پروژه‌های شخصی و یادگیری.
+
+<div align="center">
+  
+## ⚠️ IMPORTANT NOTICE | راهنمای مهم
+
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      🖥️ <strong>If the live demo link doesn't work</strong><br><br>
+      You can run the code on:<br><br>
+      ✅ <strong>VS Code</strong> (with Live Server extension)<br>
+      ✅ <strong>Any web browser</strong> (double-click the file)<br>
+      ✅ <strong>Online editors</strong> (CodePen, JSFiddle)<br><br>
+      📁 <strong>Steps:</strong><br>
+      1. Save the code as <code>timer-app.html</code><br>
+      2. Double-click to open in browser<br>
+      3. Or use Live Server in VS Code<br>
+      <br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      🖥️ <strong>اگر لینک دموی زنده کار نکرد</strong><br><br>
+      می‌توانید کد را روی این موارد اجرا کنید:<br><br>
+      ✅ <strong>VS Code</strong> (با افزونه Live Server)<br>
+      ✅ <strong>هر مرورگری</strong> (دوبار کلیک روی فایل)<br>
+      ✅ <strong>ویرایشگرهای آنلاین</strong> (CodePen, JSFiddle)<br><br>
+      📁 <strong>مراحل اجرا:</strong><br>
+      ۱. کد را به اسم <code>timer-app.html</code> ذخیره کنید<br>
+      ۲. دوبار کلیک کنید تا در مرورگر باز شود<br>
+      ۳. یا در VS Code از Live Server استفاده کنید<br>
+      <br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  
+---
+  
+🔗 <strong>Live Demo:</strong> <a href="https://htmlpreview.github.io/?https://github.com/catcxo/basic_animation/blob/main/timer-app.html">Click Here</a> | 
+🐙 <strong>GitHub:</strong> <a href="https://github.com/catcxo">catcxo</a>
+
+</div>
